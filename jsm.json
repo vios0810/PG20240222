@@ -509,7 +509,7 @@
     {
 	"name": "鴻哥精選",
 	"type": 0,
-	"url": "./js/鴻哥精選.txt",
+	"url": "./lib/鴻哥精選.txt",
         "playerType": 1,
 	"ua": "okhttp/3.15",
 	"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
